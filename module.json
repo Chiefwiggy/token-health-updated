@@ -1,0 +1,29 @@
+{
+    "title": "Token Health Upgraded",
+    "description": "Apply damage/healing to multiple tokens with a few keystrokes",
+    "url": "",
+    "readme": "",
+    "changelog": "",
+    "version": "0.0.1",
+    "esmodules": [
+        "index-thu.js"
+    ],
+    "styles": [
+        ""
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json",
+            "flags": {}
+        }
+    ],
+    "manifest": "",
+    "download": "",
+    "id": "token-health-updated",
+    "compatibility":{
+        "minimum": "11",
+        "verified": "11"
+    }
+}
